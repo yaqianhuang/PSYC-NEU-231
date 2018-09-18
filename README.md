@@ -1,7 +1,9 @@
 # PSYC-NEU 231: Tools for Experimental Data Analysis 
 Instructors: John Serences and Timothy Sheehan
 
-Time/Location: Weds 9-11:50am, Crick Conference Room (Mandler Hall Rm 3545 in Muir). First class Oct 3rd, 2018
+Time/Location: Weds 9-11:50am, Crick Conference Room (Mandler Hall Rm 3545, on the Muir Campus). 
+
+## First class Oct 3rd, 2018
 
 ## Course description
 This course will cover basic data analysis methods implemented in python using jupyter notebooks. 

@@ -1,4 +1,7 @@
 # Yaqian's Repo
+=======
+## Update 10.24.2018 - tomorrow's class will cover non-parametric stats (randomization testing and bootstrapping)
+>>>>>>> 437e5f7e8bc5fcba63c10c4e58b0060ab7660495
 
 ## Update 10.16.2018 - tomorrow's class will cover FFT and we'll analyze a few real EEG data sets
 

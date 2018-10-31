@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Yaqian's Repo
 =======
+=======
+## Update 10.31.2018 - Today's class will cover an intro to machine learning
+
+>>>>>>> bdb797065efd909211c51548e08296461d5ca276
 ## Update 10.24.2018 - tomorrow's class will cover non-parametric stats (randomization testing and bootstrapping)
 >>>>>>> 437e5f7e8bc5fcba63c10c4e58b0060ab7660495
 

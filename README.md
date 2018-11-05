@@ -26,8 +26,9 @@ At the end of the quarter, you should have a GitHub repo with all of your work f
 ## Topics 
 * 10.03.18 Intro to iPython + Jupyter Notebooks (environment, magics, markdown) and intro to basics of the language (data types, data structures, control flow)
 
-* 10.07.18 
+* 10.07.18 Intro to NumPy, advanced indexing, linear algebra 
 
+* 10.14.18 
 10.31.2018 - Today's class will cover an intro to machine learning
 
 ## Update 10.24.2018 - tomorrow's class will cover non-parametric stats (randomization testing and bootstrapping)

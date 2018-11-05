@@ -26,12 +26,20 @@ At the end of the quarter, you should have a GitHub repo with all of your work f
 ## Topics 
 * 10.03.18 Intro to iPython + Jupyter Notebooks (environment, magics, markdown) and intro to basics of the language (data types, data structures, control flow)
 
-* 10.07.18 Intro to NumPy, advanced indexing, linear algebra 
+* 10.10.18 Intro to NumPy, advanced indexing, linear algebra 
 
-* 10.14.18 
-10.31.2018 - Today's class will cover an intro to machine learning
+* 10.17.18 Fourier transforms, analyze EEG data sets 
 
-## Update 10.24.2018 - tomorrow's class will cover non-parametric stats (randomization testing and bootstrapping)
+* 10.24.2018 Intro to non-parametric statistics (randomization testing and bootstrapping)
 
-## Update 10.16.2018 - tomorrow's class will cover FFT and we'll analyze a few real EEG data sets
+* 10.31.2018 Intro to machine learning/pattern recognition (Mahalanobis Distance and Support Vector Machines) 
 
+* 11.07.2018 No Class (Society for Neuroscience meeting)
+
+* 11.14.2018 Entropy/Mutual Information 
+
+* 11.21.2018 Filtering/Signal Processing
+
+* 11.28.2018 Pandas data frames / advanced visualization with Seaborn
+
+* 12.05.2018 Linear-nonlinear-Poisson (LNP) cascade model of perceptual inference

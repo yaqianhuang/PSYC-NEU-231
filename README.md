@@ -1,10 +1,3 @@
-## Update 10.31.2018 - Today's class will cover an intro to machine learning
-
-## Update 10.24.2018 - tomorrow's class will cover non-parametric stats (randomization testing and bootstrapping)
-
-## Update 10.16.2018 - tomorrow's class will cover FFT and we'll analyze a few real EEG data sets
-
-
 # PSYC-NEU 231: Tools for Experimental Data Analysis 
 Instructors: John Serences and Timothy Sheehan
 
@@ -29,4 +22,15 @@ Tim and I will be in class to help you when you get stuck and hopefully by the e
 
 ## Grading
 At the end of the quarter, you should have a GitHub repo with all of your work from the quarter. This repo will be your 'final project' and will form the basis for your grade. Our expectation is that you will have all problem sets answered and organized.
+
+## Topics 
+* 10.03.18 Intro to iPython + Jupyter Notebooks (environment, magics, markdown) and intro to basics of the language (data types, data structures, control flow)
+
+* 10.07.18 
+
+10.31.2018 - Today's class will cover an intro to machine learning
+
+## Update 10.24.2018 - tomorrow's class will cover non-parametric stats (randomization testing and bootstrapping)
+
+## Update 10.16.2018 - tomorrow's class will cover FFT and we'll analyze a few real EEG data sets
 

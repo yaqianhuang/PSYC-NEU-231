@@ -36,7 +36,7 @@ At the end of the quarter, you should have a GitHub repo with all of your work f
 
 * 11.07.2018 No Class (Society for Neuroscience meeting)
 
-* 11.14.2018 Entropy/Mutual Information 
+* 11.14.2018 Entropy/Mutual Information/Kernel Density Estimation (KDE)
 
 * 11.21.2018 Filtering/Signal Processing
 

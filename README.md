@@ -24,11 +24,11 @@ Tim and I will be in class to help you when you get stuck and hopefully by the e
 At the end of the quarter, you should have a GitHub repo with all of your work from the quarter. This repo will be your 'final project' and will form the basis for your grade. Our expectation is that you will have all problem sets answered and organized.
 
 ## Topics 
-* 10.03.18 Intro to iPython + Jupyter Notebooks (environment, magics, markdown) and intro to basics of the language (data types, data structures, control flow)
+* 10.03.2018 Intro to iPython + Jupyter Notebooks (environment, magics, markdown) and intro to basics of the language (data types, data structures, control flow)
 
-* 10.10.18 Intro to NumPy, advanced indexing, linear algebra 
+* 10.10.2018 Intro to NumPy, advanced indexing, linear algebra 
 
-* 10.17.18 Fourier transforms, analyze EEG data sets 
+* 10.17.2018 Fourier transforms, analyze EEG data sets 
 
 * 10.24.2018 Intro to non-parametric statistics (randomization testing and bootstrapping)
 

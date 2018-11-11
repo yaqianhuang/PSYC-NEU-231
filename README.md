@@ -21,14 +21,14 @@ Each week class time will be divided into an interactive lecture where we go ove
 Tim and I will be in class to help you when you get stuck and hopefully by the end of class you'll have a good understanding of what we covered and the problem set will be completed. 
 
 ## Grading
-At the end of the quarter, you should have a GitHub repo with all of your work from the quarter. This repo will be your 'final project' and will form the basis for your grade. Our expectation is that you will have all problem sets answered and organized.
+At the end of the quarter, you should have a GitHub repo with all of your work from the quarter. This repo will be your final project and will form the basis for your grade. Our expectation is that you will have all problem sets answered and organized.
 
 ## Topics 
-* 10.03.2018 Intro to iPython + Jupyter Notebooks (environment, magics, markdown) and intro to basics of the language (data types, data structures, control flow)
+* 10.03.2018 Intro to iPython + Jupyter Notebooks (environment, magics, markdown), intro to basics of the language (data types, data structures, control flow)
 
-* 10.10.2018 Intro to NumPy, advanced indexing, linear algebra 
+* 10.10.2018 Intro to NumPy, advanced (and fancy) indexing, linear algebra 
 
-* 10.17.2018 Fourier transforms, analyze EEG data sets 
+* 10.17.2018 Fourier transforms, practice time-frequency analysis using EEG data sets 
 
 * 10.24.2018 Intro to non-parametric statistics (randomization testing and bootstrapping)
 
@@ -40,6 +40,6 @@ At the end of the quarter, you should have a GitHub repo with all of your work f
 
 * 11.21.2018 Entropy/Mutual Information/Kernel Density Estimation (KDE)
 
-* 11.28.2018 Filtering/Signal Processing
+* 11.28.2018 Filtering and time-series processing (including more advanced applications of the FFT)
 
-* 12.05.2018 Linear-nonlinear-Poisson (LNP) cascade model of perceptual inference
+* 12.05.2018 Intro to Bayesian models of perceptual inference  

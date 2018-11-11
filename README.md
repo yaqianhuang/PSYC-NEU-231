@@ -36,10 +36,10 @@ At the end of the quarter, you should have a GitHub repo with all of your work f
 
 * 11.07.2018 No Class (Society for Neuroscience meeting)
 
-* 11.14.2018 Entropy/Mutual Information/Kernel Density Estimation (KDE)
+* 11.14.2018 Pandas (series/dataframes), munging, basic stats 
 
-* 11.21.2018 Filtering/Signal Processing
+* 11.21.2018 Entropy/Mutual Information/Kernel Density Estimation (KDE)
 
-* 11.28.2018 Pandas data frames / advanced visualization with Seaborn
+* 11.28.2018 Filtering/Signal Processing
 
 * 12.05.2018 Linear-nonlinear-Poisson (LNP) cascade model of perceptual inference
